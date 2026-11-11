@@ -1,0 +1,14 @@
+# Executable files
+*.exe
+
+# Object files
+*.o
+
+# Generated output
+output.txt
+
+# Debug files
+*.log
+
+# IDE settings
+.vscode/
